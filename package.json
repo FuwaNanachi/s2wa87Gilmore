@@ -16,7 +16,16 @@
     "pug": "^3.0.2"
   },
   "main": "app.js",
-  "author": "",
+  "author": "Caleb Gilmore",
   "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuwaNanachi/s2wa87Gilmore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FuwaNanachi/s2wa87Gilmore/issues"
+  },
+  "homepage": "https://github.com/FuwaNanachi/s2wa87Gilmore#readme",
   "description": ""
 }
